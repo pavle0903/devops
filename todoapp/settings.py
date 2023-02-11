@@ -26,7 +26,7 @@ SECRET_KEY = kljuc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.117.113.162']
 
 
 # Application definition
